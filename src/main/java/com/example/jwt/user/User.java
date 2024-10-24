@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 
 import java.util.List;
 
-import com.example.jwt.user.auth.repository.Token;
+import com.example.jwt.repository.Token;
 
 @Data
 @Builder
